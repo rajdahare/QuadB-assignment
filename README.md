@@ -1,5 +1,7 @@
 ## QuadB Assignment
 
+# Deploy link "https://quad-b-assignment-nu.vercel.app/"
+
 ## Sample website
 ![Desktop size](public/laptop_size.png)
 
